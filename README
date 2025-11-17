@@ -1,0 +1,40 @@
+#  Avatar Music Box
+
+![AvatarBoxPlayGif](images/AvatarBoxPlayGif.gif)
+👉 **[Full Project Guide](https://galmakes.com/project/avatar-music-box?utm=git)**
+
+### Play different songs simply by placing an NFC tag on the reader.
+
+Perfect for kids that like their on songs and can be used to play audio books as well.
+
+---
+
+## ⭐ Features
+
+* 🎧 Plays MP3 tracks from DFPlayer Mini
+* 📡 Detects NFC tags using PN532
+* 🎚️ Physical volume controls
+* 📝 NFC tag **read and write** functionality
+* 💡 LED status indicator
+* ⏱️ Grace period to avoid accidental stop
+* 🔄 Easy to program new tags with simple serial commands
+* 🛠️ Designed for ESP32
+
+---
+
+## 📦 Hardware Required
+
+| Component                | Quantity               |
+| ------------------------ | ---------------------- |
+| ESP32 Dev Board          | 1                      |
+| PN532 NFC Reader         | 1                      |
+| DFPlayer Mini            | 1                      |
+| Micro SD Card (FAT32)    | 1                      |
+| Speaker (3W recommended) | 1                      |
+| Momentary buttons        | 2                      |
+| LED + resistor           | 1                      |
+| NFC NTAG213/215/216 tags | As many as you want 🎉 |
+
+---
+
+👉 **[Full Project Guide](https://galmakes.com/project/avatar-music-box?utm=git)**
